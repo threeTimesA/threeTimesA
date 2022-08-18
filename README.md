@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @threeTimesA and this is my profile.
-- 👀 I’m interested in React, NextJS & Express/Koa.
+- 👀 I’m interested in JavaScript mostly.
 - 🌱 I’m currently learning Front End Development with React.
 - 📫 Reach me at nowhere for now.
 
